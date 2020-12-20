@@ -1,10 +1,8 @@
-### Olá meu nome é Weslley
+### Hi, my name is Weslley and I'm a Front-End Developer and an enthusiast of Fullstack
 
-
-- 🔭 Atualmente trabalhando como Freelancer
-- 🌱 Atualmente estou estudando React, Node.Js, Express.Js e MongoDB
-- 👯 Atualmente quero colaborar com projetos Open Source
-- 🤔 Estou precisando de ajuda para conquistar minha primeira vaga de emprego
-- ⚡ Fato curioso: eu gosto e admiro desenvolvimento de jogos, embora não queira seguir carreira com isso
+- 🔭 Currently working as a Freelancer at Upwork
+- 🌱 Currently studying MongoDB, Express.Js, React and Sass
+- 👯 Looking for remote Entry Level jobs
+- ⚡ focused on the development of SPAs and PWAs
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=weslley-stein&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
