@@ -1,4 +1,4 @@
-### Hi, my name is Weslley and I'm a DevOps Engineering Student
+### Hi, my name is Weslley and I'm a Backend Engineering Student
 
 - 🔭 Currently wanting a intership
 - 🌱 Currently studying Linux and Python
