@@ -1,7 +1,7 @@
-### Hi, my name is Weslley and I'm a Backend Engineering Student
+### Hi, my name is Weslley and I'm a Full Engineering Student
 
 - 🔭 Currently wanting a intership
-- 🌱 Currently studying Linux and Python
+- 🌱 Currently studying Linux and C/C++
 - 👯 Looking for remote Entry Level jobs
 - ⚡ focused on get certifications
 
