@@ -1,4 +1,4 @@
-### Hi, my name is Weslley and I'm a Full Engineering Student
+### Hi, my name is Weslley and I'm a Full Stack Engineering Student
 
 - 🔭 Currently wanting a intership
 - 🌱 Currently studying Linux and C/C++
