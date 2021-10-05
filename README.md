@@ -1,4 +1,4 @@
-### Hi, my name is Weslley and I'm a Full Stack Engineering Student
+### Hi, my name is Weslley and I'm a DevOps Engineering Student
 
 - 🔭 Currently wanting a intership on DevOps, Cloud Engineer or Networking Engineer Roles.
 - 🌱 Currently studying Linux, Python, AWS and Docker
