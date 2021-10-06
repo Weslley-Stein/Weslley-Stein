@@ -11,5 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslley-stein&langs_count=8&layout=compact&theme=radical"/>
 </div>
 
-
+<div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+</div>
 
