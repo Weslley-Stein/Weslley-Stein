@@ -3,7 +3,7 @@
 - 🔭 Currently wanting a intership on DevOps, Cloud Engineer or Networking Engineer Roles.
 - 🌱 Currently studying Linux, Python, AWS and Docker
 - 👯 Looking for remote Entry Level jobs
-- ⚡ focused on get certifications(Aws CCP and CCNA)
+- ⚡ focused on get certifications(AWS CCP, DCA and LPI)
 
 <div id="github-stats">
   <a href"https://github.com/Weslley-Stein"/>
