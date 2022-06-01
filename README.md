@@ -8,7 +8,6 @@
 <div id="github-stats">
   <a href"https://github.com/Weslley-Stein"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslley-stein&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslley-stein&langs_count=8&layout=compact&theme=radical"/>
 </div>
 
 <div id="social-medias">
