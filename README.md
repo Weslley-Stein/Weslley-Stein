@@ -32,7 +32,10 @@
 <div id="interested">
   <h2>Interested</h2>
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-  
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </div>
 
 <div>
