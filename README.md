@@ -21,7 +21,7 @@
 </div>
 
 <div id="social-medias">
-  <h2>Learning #&128214;</h2>
+  <h2>Learning &#128214;</h2>
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
