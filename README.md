@@ -11,7 +11,7 @@
 </div>
 
 <div id="main-skills">
-   <h2 style="margin: 0 auto;">Main Skills &#127919;</h2>
+   <h2 style="margin: 0 auto;">Main Skills &#128640;</h2>
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -30,7 +30,7 @@
 </div>
 
 <div id="interested">
-  <h2>Interested</h2>
+  <h2>Interested &#128064;</h2>
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
