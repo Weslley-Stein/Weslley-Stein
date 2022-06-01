@@ -10,11 +10,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslley-stein&show_icons=true&theme=radical"/>
 </div>
 
-<div id="social-medias">
+<div id="Main Skills">
+    <h2>Main Skills</h2>
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</div>
+
+<div id="social-medias">
+
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
