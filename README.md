@@ -11,21 +11,25 @@
 </div>
 
 <div id="main-skills">
-    <h2>Main Skills</h2>
+   <h2>Main Skills</h2>
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
 <div id="social-medias">
-
+  <h2>Learning</h2>
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-   <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+</div>
+
+<div id="interested">
+  
 </div>
 
 <div>
