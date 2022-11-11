@@ -1,9 +1,8 @@
 ### Hi, my name is Weslley and I'm a DevOps Engineering Student
 
-- 🔭 Currently wanting a intership on DevOps, Cloud Engineer or Networking Engineer Roles.
+- 🔭 Currently working as an intern in DevOps Engineering.
 - 🌱 Currently studying Linux, Python, AWS and Docker
-- 👯 Looking for remote Entry Level jobs
-- ⚡ focused on get certifications(AWS CCP, DCA and LPI)
+- ⚡ focused on get certifications(Terraform Associate, DCA and LPI)
 
 <div id="github-stats">
   <a href"https://github.com/Weslley-Stein"/>
