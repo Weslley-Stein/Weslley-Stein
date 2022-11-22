@@ -1,7 +1,7 @@
 ### Hi, my name is Weslley and I'm a DevOps Engineering Student
 
 - 🔭 Currently working as an intern in DevOps Engineering.
-- 🌱 Currently studying Linux, Python, AWS and Docker
+- 🌱 Currently studying RHEL, Javascript/Typescript, AWS(Lambda, DynamoDB and API Gateway) and Terraform
 - ⚡ focused on get certifications(Terraform Associate, DCA and LPI)
 
 <div id="github-stats">
