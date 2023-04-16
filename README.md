@@ -2,7 +2,7 @@
 
 - 🔭 Currently working as an intern in DevOps Engineering.
 - 🌱 Currently studying RHEL, Javascript/Typescript, AWS(Lambda, DynamoDB and API Gateway) and Terraform
-- ⚡ focused on get certifications(Terraform Associate, DCA and LPI)
+- ⚡ focused on get certifications(AWS Certified Architect Associate,DCA and LPI)
 
 <div id="github-stats">
   <a href"https://github.com/Weslley-Stein"/>
