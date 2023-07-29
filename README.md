@@ -1,8 +1,8 @@
-### Hi, my name is Weslley and I'm a DevOps Engineering Student
+### Hi, my name is Weslley and I'm a DevOps Engineer
 
-- 🔭 Currently working as an intern in DevOps Engineering.
-- 🌱 Currently studying RHEL, Python, AWS(Lambda, DynamoDB and API Gateway) and Terraform
-- ⚡ focused on get certifications(AWS Certified Architect Associate,DCA and LPI)
+- 🔭 Currently working as a DevOps Engineering.
+- 🌱 Currently working with AWS, Terraform, Python, RHEL, Ansible, Jenkins, Docker, Kubernetes, Prometheus and Grafana.
+- ⚡ focused on get certifications(AWS Certified Architect Associate and LPI)
 
 <div id="github-stats">
   <a href"https://github.com/Weslley-Stein"/>
@@ -15,21 +15,18 @@
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
    <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-   <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" />
 </div>
 
 <div id="social-medias">
   <h2>Learning &#128214;</h2>
-   <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" />
+   <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </div>
 
 <div id="interested">
   <h2>Interested &#128064;</h2>
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-  <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-  <img height="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 </div>
 
 <div>
@@ -40,7 +37,7 @@
   <a href="https://weslley-stein.medium.com/"> 
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>   
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5511956713019"> 
+  <a href="https://api.whatsapp.com/send?phone=5511995925708"> 
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>   
   </a>
   <a href = "mailto:weslley.stein@gmail.com">
