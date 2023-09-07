@@ -1,6 +1,6 @@
 ### Hi, my name is Weslley and I'm a DevOps Engineer
 
-- 🔭 Currently working as a DevOps Engineering.
+- 🔭 Currently working as a Cloud Engineer.
 - 🌱 Currently working with AWS, Terraform, Python, RHEL, Ansible, Jenkins, Docker, Kubernetes, Prometheus and Grafana.
 - ⚡ focused on get certifications(AWS Certified Architect Associate and LPI)
 
