@@ -2,7 +2,7 @@
 
 - 🔭 Currently working as a Cloud Engineer.
 - 🌱 Currently working with AWS, Terraform, Python, RHEL, Ansible, Jenkins, Docker, Kubernetes, Prometheus and Grafana.
-- ⚡ focused on get certifications(RHCSA, CNNA and AWS Certified Architect Associate)
+- ⚡ focused on get certifications(RHCSA and AWS Certified Architect Associate)
 
 <div id="github-stats">
   <a href"https://github.com/Weslley-Stein"/>
